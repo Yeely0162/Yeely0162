@@ -25,17 +25,18 @@
 <p>&emsp;&emsp;<strong>Always believe great things are just around the corner​.</strong></p>
 
 <table>
-
 <tr>
+<td>
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-left: 30px; margin-bottom: 0px;" />
-</tr>
-<tr>
-<img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/vscode.webp" alt="icon" width="65" style="width: 50px; height: 50px; margin-left: 30px; margin-bottom: 0px;" />
-</tr>
-<tr><img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/python.webp" alt="icon" width="65" style="width: 50px; height: 50px; margin-left: 30px; margin-bottom: 0px;" />
-</tr>
-<tr>
-<img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/github.webp" alt="icon" width="65" style="width: 50px; height: 50px; margin-left: 30px; margin-bottom: 0px;" />
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/vscode.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
+</td>
+<td><img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/python.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
+</td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/github.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
+</td>
 </tr>
 </table>
 </table>
