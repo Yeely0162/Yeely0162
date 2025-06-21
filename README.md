@@ -24,17 +24,22 @@
  <p>&emsp;&emsp;We're making the world better and better.</p>
 <p>&emsp;&emsp;<strong>Always believe great things are just around the corner​.</strong></p>
 
-<div style= "display:flex;flex-direction: row; flex-wrap: wrap; align-content: flex-end; justify-content: space-evenly; align-items: center;">
-
+<table style="border:0; cellspacing: 0; cellpadding: 0">
+<tr>
+<td >
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-left: 30px; margin-bottom: 0px;" />
-
+</td >
+<td >
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/vscode.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
-
+</td>
+<td >
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/python.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
-
+</td>
+<td >
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/github.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
-
-</div>
+</td>
+</tr>
+</table>
 </table>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/hr.gif" />
 
