@@ -24,7 +24,7 @@
  <p>&emsp;&emsp;We're making the world better and better.</p>
 <p>&emsp;&emsp;<strong>Always believe great things are just around the corner​.</strong></p>
 
-<div style= "display:flex; flex-wrap: nowrap | wrap | wrap-reverse;">
+<div style= "display:flex;flex-direction: row; flex-wrap: wrap; align-content: flex-end; justify-content: space-evenly; align-items: center;">
 
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-left: 30px; margin-bottom: 0px;" />
 
