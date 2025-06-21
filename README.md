@@ -45,8 +45,8 @@
 
 <table>
       <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/github-metrics/base.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/github-metrics/calendar.full.svg" alt="reactions" /></td>
   </tr>
 
 
