@@ -29,9 +29,9 @@ jobs:
           # 此插件为文档中的 👨‍💻 Lines of code changed
           plugin_lines: yes
           # 此插件为文档中的 🙋 Introduction
-          plugin_introduction: yes
+          plugin_introduction: no
           # 此插件为文档中的 🎫 Gists
-          plugin_gists: yes
+          plugin_gists: no
           # 此插件为文档中的 💫 Star lists
           # plugin_starlists: yes
           # plugin_starlists_limit_repositories: 2
@@ -48,7 +48,7 @@ jobs:
           # 不添加基础信息
           base: ""
           # 使用此插件
-          plugin_isocalendar: yes
+          plugin_isocalendar: no
           # 设置成显示整年
           plugin_isocalendar_duration: full-year
 
