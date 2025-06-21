@@ -20,7 +20,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: Yeely01621
+          user: Yeely0162
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
