@@ -26,16 +26,16 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td style="border: none;">
+<td style="border-top: none;">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-left: 30px; margin-bottom: 0px;" />
 </td >
-<td style="border: none;">
+<td style="border-top: none;">
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/vscode.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
 </td>
-<td style="border: none;">
+<td style="border-top: none;">
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/python.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
 </td>
-<td style="border: none;">
+<td style="border-top: none;">
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/github.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
 </td>
 </tr>
