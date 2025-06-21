@@ -8,9 +8,11 @@
 <table>
 
 #  🙋 Hello
-<td>
+<div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Yeely祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
-</td>
+
+</div>
+
 ### 😎About Me
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Yeely0162/blog-img/img/c2aa.jpg" />
 
