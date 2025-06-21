@@ -43,5 +43,5 @@
 
 </table>
 
-<img src="https://cdn.jsdelivr.net/gh/Yeely01621/Yeely01621/assets/images/icon.png" />
+<img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely01621/assets/images/icon.png" />
 
