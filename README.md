@@ -24,7 +24,7 @@
  <p>&emsp;&emsp;We're making the world better and better.</p>
 <p>&emsp;&emsp;<strong>Always believe great things are just around the corner​.</strong></p>
 
-
+<table border="0">
 <tr>
 <td>
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-left: 30px; margin-bottom: 0px;" />
@@ -38,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/github.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
 </td>
 </tr>
-
+</table>
 </table>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/hr.gif" />
 
