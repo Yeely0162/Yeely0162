@@ -24,22 +24,17 @@
  <p>&emsp;&emsp;We're making the world better and better.</p>
 <p>&emsp;&emsp;<strong>Always believe great things are just around the corner​.</strong></p>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td style="border: none !important;">
+<div style= "display:flex; flex-wrap: nowrap | wrap | wrap-reverse;">
+
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-left: 30px; margin-bottom: 0px;" />
-</td >
-<td style="border: none !important;">
+
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/vscode.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
-</td>
-<td style="border: none !important;">
+
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/python.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
-</td>
-<td style="border: none !important;">
+
 <img src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/github.webp" alt="icon" width="65" style="width: 50px; height: 50px;" />
-</td>
-</tr>
-</table>
+
+</div>
 </table>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Yeely0162/Yeely0162/assets/images/hr.gif" />
 
